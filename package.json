@@ -1,0 +1,16 @@
+{
+  "name": "server-discovery",
+  "version": "0.0.1",
+  "description": "A simple library to allow client discover server location on network.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "MZ Software <contato@mzsw.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "ip": "^1.1.5"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.0",
+    "jsdoc": "^3.5.5"
+  }
+}
